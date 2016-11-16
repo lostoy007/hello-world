@@ -1,3 +1,4 @@
 # hello-world
-Hello World!
-My first project on github.
+Hello World!  
+
+My first project on github.  
